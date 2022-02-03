@@ -4,4 +4,5 @@ Tecnologias utilizadas nesse projeto
 * HTML
 * CSS
 * JavaScript
-[Clique aqui](https://yuricirino.github.io/side-bar-menu/) para ver no GitHub Pages
+
+#### [Clique aqui](https://yuricirino.github.io/side-bar-menu/) para ver no GitHub Pages
